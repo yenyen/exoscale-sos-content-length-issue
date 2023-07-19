@@ -1,0 +1,17 @@
+{
+  "name": "exoscale-sos-content-length-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/hash-node": "^3.370.0",
+    "@aws-sdk/protocol-http": "^3.370.0",
+    "@aws-sdk/s3-request-presigner": "^3.370.0",
+    "@logi.one/rest-client": "^0.2.4"
+  }
+}
